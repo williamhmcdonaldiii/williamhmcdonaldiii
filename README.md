@@ -8,4 +8,4 @@ I started out software development learning Python. However, my day job is build
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhmcdonaldiii&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamhmcdonaldiii&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
